@@ -8,7 +8,7 @@ I once spent a semester measuring how much power MPI code burns on the Leonardo 
  
 Outside of code I run [Lumika](https://www.linkedin.com/in/nicol%C3%B2-venieri), shooting sports events, and I'm a certified drone pilot — so if the code fails, at least the footage looks great.
  
-[![Skills](https://skillicons.dev/icons?i=cpp,c,linux,bash,git,gcp)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,java,kotlin,python,cpp,c,linux,bash,git,gcp)](https://skillicons.dev)
  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicol%C3%B2-venieri)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:your.email@example.com)
