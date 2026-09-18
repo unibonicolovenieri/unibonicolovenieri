@@ -1,6 +1,6 @@
 # Hey, I'm Nicolò 👋
  
-I write C++ at Marchesini Group, where I'm building a data-exchange utility for real-time systems — "real-time" meaning everyone notices immediately when I get it wrong.
+Right nwo I'm writing C++ at Marchesini Group, where I'm building a data-exchange utility for real-time systems — "real-time" meaning everyone notices immediately when I get it wrong.
  
 Currently finishing my MSc in Computer Engineering in Bologna. Before that I spent two years as a sysadmin, which is why I still flinch when someone says "it works on my machine."
  
