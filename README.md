@@ -6,7 +6,7 @@ Currently finishing my MSc in Computer Engineering in Bologna. Before that I spe
  
 I once spent a semester measuring how much power MPI code burns on the Leonardo supercomputer, and mostly learned that HPC clusters are very good at generating noise and very bad at sitting still. Worth it anyway.
  
-Outside of code I run [Lumika](https://www.linkedin.com/in/nicol%C3%B2-venieri), shooting sports events, and I'm a certified drone pilot — so if the code fails, at least the footage looks great.
+Outside of code I run [Lumika](https://lumikadigitalsolutions.com/), shooting sports events, and I'm a certified drone pilot — so if the code fails, at least the footage looks great.
  
 [![Skills](https://skillicons.dev/icons?i=go,java,kotlin,python,cpp,c,linux,apple,bash,git,gcp)](https://skillicons.dev)
  
